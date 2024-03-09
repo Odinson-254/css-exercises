@@ -1,4 +1,4 @@
-p:nth-child(odd) {
+.odd {
 	background-color: #ffcccc;
 	font-family: Verdana, "Dejavu Sans", sans-serif;
 }
@@ -13,7 +13,7 @@ p.third-element {
 }
 
 div#fourth-element {
-	background-color: #ccffcc;
+	background-color: hsl(120, 100%, 75%);
 	font-size: 24px;
 	font-weight: bold;
 }
