@@ -1,13 +1,15 @@
-button 1st-element {
-	background-color: black;
-	color: white;
-	font-weight: bold;
+.1st-element,
+.2nd-element {
 	font-size: 28px;
 	font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-button 2nd-element {
+.1st-element {
+	background-color: black;
+	color: white;
+	font-weight: bold;
+}
+
+.2nd-element {
 	background-color: yellow;
-	font-size: 28px;
-	font-family: Helvetica, "Times New Roman", sans-serif;
 }
